@@ -12,5 +12,17 @@ La manera como trabaja el mini analizador léxico es así:
 
 Al ejecutarse el programa sale lo siguiente:
 
+![image](https://github.com/AbrahamPP2000/Analizador-Lexico/assets/97979648/4994d96f-9d85-41e3-96e5-b436bf8486fb)
 
-Nos solicita ingresar alguna cadena para revisarla. 
+Nos solicita ingresar alguna cadena para revisarla. Ingresamos una cadena válida y vemos el resultado:
+
+![image](https://github.com/AbrahamPP2000/Analizador-Lexico/assets/97979648/d0580b0a-f1ab-4dcf-b56d-6d8d5f93c4bc)
+
+
+Ahora ingresamos una cadena inválida y vemos el resultado:
+
+![image](https://github.com/AbrahamPP2000/Analizador-Lexico/assets/97979648/cfccedee-e9b9-4b4b-81a2-07d272be9546)
+
+
+Debido a que se ingresaron caracteres especiales que no van acorde a la gramática, el autómata detecta un error y devuelve el mensaje correspondiente.
+
