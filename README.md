@@ -7,6 +7,7 @@ Tarea: mini analizador léxico
 
 Este repositorio tiene dos ramas: el main, en donde está el mini analizador léxico y "EtapaProyecto" en donde está la primera etapa del proyecto.
 Para este trabajo se utilizó el link de apoyo proprocionado por el docente. Se le hicieron algunas modificaciones.
+El IDE que utilicé es Zinjai.
 
 La manera como trabaja el mini analizador léxico es así:
 
